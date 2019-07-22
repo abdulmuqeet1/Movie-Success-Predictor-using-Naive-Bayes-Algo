@@ -24,6 +24,8 @@ but data driven decision can help in making selection which can increase the cha
 # Algorithm Performed:
     Naive Bayes' - Gaussian Naive Bayes
 
+# Result:
+
 # Contributions:
 
 # Reference 
