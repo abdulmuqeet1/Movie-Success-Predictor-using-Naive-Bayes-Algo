@@ -19,6 +19,7 @@ but data driven decision can help in making selection which can increase the cha
 
 # Data Collection:
 
+# Success metric:
 
 # Algorithm Performed:
     Naive Bayes' - Gaussian Naive Bayes
